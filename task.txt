@@ -1,8 +1,8 @@
 introduction of github
 learnt about edit and going back to certain version.
 
-new branch is added
+new branch is added along with role2
 need to learn about push request
 
-new branch is going to be added
+new branch is going to be added,it won't be a problem
 
